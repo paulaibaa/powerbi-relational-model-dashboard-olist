@@ -10,13 +10,9 @@ customers, sellers, products), clean it in Power Query and build a dashboard
 with DAX measures.
 
 ## Data source
-
-Olist, & Sionek, A. (2018). *Brazilian E-Commerce Public Dataset by Olist*
+Olist, & Sionek, A. (2018). *Brazilian E-Commerce Public Dataset by Olist* 
+The data is **not included** in this repository.  Download the Brazilian E-Commerce Public Dataset by Olist from Kaggle
 [Data set]. Kaggle. https://doi.org/10.34740/kaggle/dsv/195341
-
-The data is **not included** in this repository. See `data/README.md` for
-download instructions. Download the Brazilian E-Commerce Public Dataset by Olist from Kaggle
-(https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 and place the CSV files in `data/raw/`
 
 ## Data model
