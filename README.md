@@ -43,6 +43,8 @@ and place the CSV files in `data/raw/`
 - Seller cities are cleaned with a mapping table; geolocation is reduced to one
   row per zip code and only used to add coordinates.
 
+See [data preparation and model documentation](docs/data-preparation.md).
+
 ## Status
 
 Data model and cleaning completed. DAX measures and dashboard in progress.
