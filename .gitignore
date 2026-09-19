@@ -1,0 +1,12 @@
+# Datos originales de Olist: no se suben (licencia sin confirmar)
+data/raw/
+*.csv
+
+# Informe de Power BI (lleva los datos incrustados)
+*.pbix
+**/.pbi/
+
+# Credenciales y sistema
+.env
+Thumbs.db
+.DS_Store
