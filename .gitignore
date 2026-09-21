@@ -2,9 +2,6 @@
 data/raw/
 *.csv
 
-# Informe de Power BI (lleva los datos incrustados)
-*.pbix
-**/.pbi/
 
 # Credenciales y sistema
 .env
